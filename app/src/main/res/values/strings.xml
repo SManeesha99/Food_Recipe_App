@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FoodRecipe</string>
+    <string name="api_key">0efbbe73cfdb4d30ae637e1393b8ffc2</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>souce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+
+    </string-array>
+</resources>
